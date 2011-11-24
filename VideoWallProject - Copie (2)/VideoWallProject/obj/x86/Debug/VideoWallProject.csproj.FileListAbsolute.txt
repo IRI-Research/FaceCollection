@@ -1,0 +1,160 @@
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.exe
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.pdb
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.baml
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\App.g.cs
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_Content.g.cs
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+D:\Projet Kinect 2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.exe
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.pdb
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.baml
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\App.g.cs
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_Content.g.cs
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ProjetKinect2011\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.exe
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.pdb
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\App.g.cs
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.dll
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.dll
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.pdb
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.pdb
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.exe
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.pdb
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.dll
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.dll
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.pdb
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.pdb
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\App.g.cs
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_Content.g.cs
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.exe
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.pdb
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.dll
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.dll
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.pdb
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.pdb
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.baml
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\App.g.cs
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_Content.g.cs
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dina\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.PanelPreview.resources
+C:\Users\Agathia\Documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.PanelPreview.resources
+p:\Mes documents\Visual Studio 2010\Projects\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.PanelPreview.resources
+H:\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+H:\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.exe
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.pdb
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.dll
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.dll
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.pdb
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.pdb
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\App.g.cs
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_Content.g.cs
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.PanelPreview.resources
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Agathia\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\bin\Debug\VideoWallProject.exe
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\bin\Debug\VideoWallProject.pdb
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\bin\Debug\DirectX.Capture.dll
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\bin\Debug\DShowNET.dll
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\bin\Debug\DirectX.Capture.pdb
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\bin\Debug\DShowNET.pdb
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\App.g.cs
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\VideoWallProject_Content.g.cs
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\VideoWallProject.PanelPreview.resources
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dina\Desktop\VideoWallProject2\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.exe
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\bin\Debug\VideoWallProject.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.dll
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.dll
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DirectX.Capture.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\bin\Debug\DShowNET.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.baml
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\App.g.cs
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.PanelPreview.resources
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EsilvKinect\Desktop\VideoWallProject\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\VideoWallProject.exe
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\VideoWallProject.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\bin\Debug\VideoWallProject.exe
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\bin\Debug\VideoWallProject.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\bin\Debug\DirectX.Capture.dll
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\bin\Debug\DShowNET.dll
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\bin\Debug\DirectX.Capture.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\bin\Debug\DShowNET.pdb
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\MainWindow.baml
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\App.g.cs
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\VideoWallProject_MarkupCompile.cache
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\VideoWallProject.g.resources
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\VideoWallProject.PanelPreview.resources
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\VideoWallProject.Properties.Resources.resources
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EsilvKinect\Desktop\VideoWallProject - Copie (2)\VideoWallProject\obj\x86\Debug\GenerateResource.write.1.tlog

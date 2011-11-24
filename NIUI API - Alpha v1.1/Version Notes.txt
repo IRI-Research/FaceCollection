@@ -1,0 +1,10 @@
+Alpha V1.0:
+- Initial Release.
+
+Alpha V1.1:
+- Updated documentation (See "Start Here", "Quick Start Guide").
+- Fixed file reference issue within the dll
+- Added quick start guide.
+- Removed redundant functions.
+- Revised setup instruction's
+- Added a simplified installer process for all the requirements (NITE, OpenNI, SensorKinect).

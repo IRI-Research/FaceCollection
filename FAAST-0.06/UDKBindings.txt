@@ -1,0 +1,10 @@
+# mappings from input events to output events
+# format: event_name threshold output_type event
+
+lean_left 15 key d
+lean_right 15 key a
+lean_forwards 15 key w
+lean_backwards 15 key s
+left_arm_out 20 key right_arrow
+right_arm_out 20 key left_arrow
+jump 15 key space

@@ -1,0 +1,39 @@
+﻿<Window x:Class="VideoWallProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                Title="MainWindow" Height="1024" Width="1024" ResizeMode="CanMinimize" WindowStyle="None" WindowState="Maximized" Background="Black">
+
+
+    <Viewbox Height="768" Name="viewbox1" Width="1024" Stretch="Fill">
+        <Grid Height="900" Name="gridMain" Width="1600" >
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <MediaElement Name="Video1_1" Grid.Row="0" Grid.Column="0" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video1_2" Grid.Row="0" Grid.Column="1" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video1_3" Grid.Row="0" Grid.Column="2" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video1_4" Grid.Row="0" Grid.Column="3" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video2_1" Grid.Row="1" Grid.Column="0" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video2_2" Grid.Row="1" Grid.Column="1" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video2_3" Grid.Row="1" Grid.Column="2" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video2_4" Grid.Row="1" Grid.Column="3" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video3_1" Grid.Row="2" Grid.Column="0" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video3_2" Grid.Row="2" Grid.Column="1" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video3_3" Grid.Row="2" Grid.Column="2" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video3_4" Grid.Row="2" Grid.Column="3" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video4_1" Grid.Row="3" Grid.Column="0" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video4_2" Grid.Row="3" Grid.Column="1" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video4_3" Grid.Row="3" Grid.Column="2" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+            <MediaElement Name="Video4_4" Grid.Row="3" Grid.Column="3" Stretch="Fill" UnloadedBehavior="Manual" LoadedBehavior="Manual" MediaEnded="mediaEnded" />
+        </Grid>
+    </Viewbox>
+</Window>
